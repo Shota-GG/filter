@@ -1,0 +1,29 @@
+.inputs {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2px;
+}
+input {
+    height: 20px;
+    width: 50px;
+}
+.filter {
+    height: 26px;
+}
+.sort {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1 {
+    font-size: 40px;
+}
+.box {
+    height: 80px;
+    width: 400px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
